@@ -10,3 +10,5 @@ gem 'tomlrb'
 gem 'rake'
 gem 'stove'
 gem 'community_cookbook_releaser'
+gem "test-kitchen"
+gem "ec2"
